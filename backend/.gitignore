@@ -1,5 +1,5 @@
-results/
-upload/
+results
+uploads
 *.log
 *.tmp
 *.bak
@@ -9,4 +9,4 @@ __pycache__/
 *.pyo
 .env
 venv/
-sessions/
+sessions
