@@ -1,0 +1,12 @@
+[
+  {
+    "id": "fe6d52e540cc",
+    "created_at": "2026-04-16T11:16:27.046453+00:00",
+    "video_file": "tmpyq91543r.webm",
+    "annotated_video_file": "annotated_47d98af5d202.mp4",
+    "attention_final": 30.9,
+    "focus_pct": 37.5,
+    "duration_s": 1.8,
+    "processed_frames": 1809
+  }
+]

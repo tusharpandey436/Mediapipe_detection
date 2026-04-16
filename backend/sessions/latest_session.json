@@ -1,0 +1,459 @@
+{
+  "session_start": "2026-04-16 16:45:48",
+  "duration_s": 1.8,
+  "total_frames": 1809,
+  "focus_frames": 679,
+  "focus_pct": 37.5,
+  "attention_final": 30.9,
+  "blinks": 28,
+  "microsleeps": 0,
+  "ear_open_baseline": 0.4976,
+  "ear_closed_thresh": 0.3483,
+  "eye_center": {
+    "x": 0.5099,
+    "y": 0.4812
+  },
+  "head_neutral": {
+    "yaw": 8.08,
+    "pitch": -0.26
+  },
+  "eye_counts": {
+    "Left": 15,
+    "Right": 0,
+    "Up": 4,
+    "Down": 4
+  },
+  "head_counts": {
+    "Left": 8,
+    "Right": 2,
+    "Up": 0,
+    "Down": 1
+  },
+  "events": [
+    {
+      "t": 1.97,
+      "kind": "auto_calib",
+      "detail": "open=0.498 thr=0.348"
+    },
+    {
+      "t": 3.38,
+      "kind": "eye",
+      "detail": "Left"
+    },
+    {
+      "t": 3.84,
+      "kind": "eye",
+      "detail": "Center"
+    },
+    {
+      "t": 4.61,
+      "kind": "eye",
+      "detail": "Down"
+    },
+    {
+      "t": 4.75,
+      "kind": "head",
+      "detail": "Left"
+    },
+    {
+      "t": 4.91,
+      "kind": "eye",
+      "detail": "Left"
+    },
+    {
+      "t": 6.93,
+      "kind": "eye",
+      "detail": "Center"
+    },
+    {
+      "t": 7.51,
+      "kind": "head",
+      "detail": "Center"
+    },
+    {
+      "t": 8.98,
+      "kind": "head",
+      "detail": "Right"
+    },
+    {
+      "t": 10.11,
+      "kind": "eye",
+      "detail": "Left"
+    },
+    {
+      "t": 10.34,
+      "kind": "head",
+      "detail": "Center"
+    },
+    {
+      "t": 11.04,
+      "kind": "eye",
+      "detail": "Center"
+    },
+    {
+      "t": 12.99,
+      "kind": "eye",
+      "detail": "Left"
+    },
+    {
+      "t": 13.33,
+      "kind": "eye",
+      "detail": "Center"
+    },
+    {
+      "t": 14.26,
+      "kind": "blink",
+      "detail": "ear=0.303"
+    },
+    {
+      "t": 16.12,
+      "kind": "eye",
+      "detail": "Up"
+    },
+    {
+      "t": 16.45,
+      "kind": "eye",
+      "detail": "Center"
+    },
+    {
+      "t": 17.65,
+      "kind": "eye",
+      "detail": "Left"
+    },
+    {
+      "t": 18.26,
+      "kind": "eye",
+      "detail": "Center"
+    },
+    {
+      "t": 22.07,
+      "kind": "blink",
+      "detail": "ear=0.262"
+    },
+    {
+      "t": 22.31,
+      "kind": "eye",
+      "detail": "Up"
+    },
+    {
+      "t": 22.61,
+      "kind": "eye",
+      "detail": "Left"
+    },
+    {
+      "t": 22.83,
+      "kind": "blink",
+      "detail": "ear=0.338"
+    },
+    {
+      "t": 22.94,
+      "kind": "blink",
+      "detail": "ear=0.341"
+    },
+    {
+      "t": 23.28,
+      "kind": "eye",
+      "detail": "Center"
+    },
+    {
+      "t": 24.18,
+      "kind": "eye",
+      "detail": "Left"
+    },
+    {
+      "t": 25.06,
+      "kind": "head",
+      "detail": "Left"
+    },
+    {
+      "t": 25.21,
+      "kind": "eye",
+      "detail": "Center"
+    },
+    {
+      "t": 25.56,
+      "kind": "blink",
+      "detail": "ear=0.229"
+    },
+    {
+      "t": 26.16,
+      "kind": "blink",
+      "detail": "ear=0.346"
+    },
+    {
+      "t": 27.3,
+      "kind": "head",
+      "detail": "Center"
+    },
+    {
+      "t": 27.97,
+      "kind": "blink",
+      "detail": "ear=0.281"
+    },
+    {
+      "t": 30.24,
+      "kind": "blink",
+      "detail": "ear=0.216"
+    },
+    {
+      "t": 30.27,
+      "kind": "eye",
+      "detail": "Left"
+    },
+    {
+      "t": 31.38,
+      "kind": "eye",
+      "detail": "Center"
+    },
+    {
+      "t": 32.72,
+      "kind": "head",
+      "detail": "Right"
+    },
+    {
+      "t": 33.18,
+      "kind": "blink",
+      "detail": "ear=0.312"
+    },
+    {
+      "t": 33.57,
+      "kind": "eye",
+      "detail": "Up"
+    },
+    {
+      "t": 33.63,
+      "kind": "blink",
+      "detail": "ear=0.308"
+    },
+    {
+      "t": 33.76,
+      "kind": "head",
+      "detail": "Left"
+    },
+    {
+      "t": 34.19,
+      "kind": "blink",
+      "detail": "ear=0.322"
+    },
+    {
+      "t": 34.31,
+      "kind": "eye",
+      "detail": "Down"
+    },
+    {
+      "t": 34.37,
+      "kind": "blink",
+      "detail": "ear=0.348"
+    },
+    {
+      "t": 34.46,
+      "kind": "head",
+      "detail": "Center"
+    },
+    {
+      "t": 35.44,
+      "kind": "head",
+      "detail": "Left"
+    },
+    {
+      "t": 36.0,
+      "kind": "blink",
+      "detail": "ear=0.315"
+    },
+    {
+      "t": 36.15,
+      "kind": "blink",
+      "detail": "ear=0.305"
+    },
+    {
+      "t": 36.71,
+      "kind": "eye",
+      "detail": "Center"
+    },
+    {
+      "t": 37.01,
+      "kind": "blink",
+      "detail": "ear=0.345"
+    },
+    {
+      "t": 37.52,
+      "kind": "eye",
+      "detail": "Left"
+    },
+    {
+      "t": 39.36,
+      "kind": "eye",
+      "detail": "Down"
+    },
+    {
+      "t": 40.46,
+      "kind": "eye",
+      "detail": "Center"
+    },
+    {
+      "t": 41.23,
+      "kind": "eye",
+      "detail": "Left"
+    },
+    {
+      "t": 42.7,
+      "kind": "head",
+      "detail": "Center"
+    },
+    {
+      "t": 44.14,
+      "kind": "blink",
+      "detail": "ear=0.306"
+    },
+    {
+      "t": 44.69,
+      "kind": "eye",
+      "detail": "Center"
+    },
+    {
+      "t": 45.25,
+      "kind": "blink",
+      "detail": "ear=0.336"
+    },
+    {
+      "t": 45.36,
+      "kind": "blink",
+      "detail": "ear=0.308"
+    },
+    {
+      "t": 45.65,
+      "kind": "eye",
+      "detail": "Left"
+    },
+    {
+      "t": 45.82,
+      "kind": "head",
+      "detail": "Left"
+    },
+    {
+      "t": 46.65,
+      "kind": "eye",
+      "detail": "Center"
+    },
+    {
+      "t": 47.3,
+      "kind": "head",
+      "detail": "Down"
+    },
+    {
+      "t": 47.54,
+      "kind": "eye",
+      "detail": "Left"
+    },
+    {
+      "t": 48.34,
+      "kind": "head",
+      "detail": "Left"
+    },
+    {
+      "t": 48.58,
+      "kind": "blink",
+      "detail": "ear=0.323"
+    },
+    {
+      "t": 48.8,
+      "kind": "blink",
+      "detail": "ear=0.329"
+    },
+    {
+      "t": 49.01,
+      "kind": "blink",
+      "detail": "ear=0.302"
+    },
+    {
+      "t": 49.17,
+      "kind": "blink",
+      "detail": "ear=0.347"
+    },
+    {
+      "t": 49.32,
+      "kind": "eye",
+      "detail": "Down"
+    },
+    {
+      "t": 49.54,
+      "kind": "head",
+      "detail": "Center"
+    },
+    {
+      "t": 49.78,
+      "kind": "eye",
+      "detail": "Center"
+    },
+    {
+      "t": 50.21,
+      "kind": "blink",
+      "detail": "ear=0.278"
+    },
+    {
+      "t": 50.72,
+      "kind": "head",
+      "detail": "Left"
+    },
+    {
+      "t": 51.18,
+      "kind": "eye",
+      "detail": "Left"
+    },
+    {
+      "t": 52.41,
+      "kind": "eye",
+      "detail": "Center"
+    },
+    {
+      "t": 52.87,
+      "kind": "blink",
+      "detail": "ear=0.305"
+    },
+    {
+      "t": 52.93,
+      "kind": "eye",
+      "detail": "Left"
+    },
+    {
+      "t": 52.99,
+      "kind": "blink",
+      "detail": "ear=0.335"
+    },
+    {
+      "t": 53.66,
+      "kind": "head",
+      "detail": "Center"
+    },
+    {
+      "t": 55.17,
+      "kind": "blink",
+      "detail": "ear=0.293"
+    },
+    {
+      "t": 55.38,
+      "kind": "blink",
+      "detail": "ear=0.318"
+    },
+    {
+      "t": 55.51,
+      "kind": "eye",
+      "detail": "Up"
+    },
+    {
+      "t": 55.51,
+      "kind": "head",
+      "detail": "Left"
+    },
+    {
+      "t": 56.48,
+      "kind": "eye",
+      "detail": "Left"
+    },
+    {
+      "t": 58.79,
+      "kind": "blink",
+      "detail": "ear=0.348"
+    }
+  ]
+}
