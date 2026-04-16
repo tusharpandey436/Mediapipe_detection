@@ -1,0 +1,12 @@
+results/
+upload/
+*.log
+*.tmp
+*.bak
+*.swp
+__pycache__/
+*.pyc
+*.pyo
+.env
+venv/
+sessions/
