@@ -1,12 +1,15 @@
-results
-uploads
+# Runtime/generated artifacts
+results/
+uploads/
+sessions/
+__pycache__/
+*.pyc
+*.pyo
+
+# Env/log/temp
+.env
+venv/
 *.log
 *.tmp
 *.bak
 *.swp
-__pycache__/
-*.pyc
-*.pyo
-.env
-venv/
-sessions
